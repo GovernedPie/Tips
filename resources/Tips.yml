@@ -1,0 +1,7 @@
+tip1: "Tip1"
+tip2: "Tip2"
+tip3: "Tip3"
+tip4: "Tip4"
+tip5: "Tip5"
+header: "§6TIPS:" # The name of the broadcast. Example: "[header]: [tip]" -> TIP: Example.
+repeating_time: "10" # How fast the messages send in seconds.
